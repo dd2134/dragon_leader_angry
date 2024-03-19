@@ -1,0 +1,25 @@
+{
+  "name": "dragon_leader_angry",
+  "version": "1.0.0",
+  "description": "龙龙龙",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dd2134/dragon_leader_angry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dd2134/dragon_leader_angry/issues"
+  },
+  "homepage": "https://github.com/dd2134/dragon_leader_angry#readme",
+  "dependencies": {
+    "dragon_awakening_of_insects": "^1.0.1",
+    "dragon_lucky_words": "^1.0.3",
+    "jquery": "^3.7.1"
+  }
+}
